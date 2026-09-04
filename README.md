@@ -1,36 +1,30 @@
-# Oi! Eu sou a Ana Flávia 👋
+### Oi! Eu sou a Ana Flávia 🥰​🌼​
 
-Sou formada em Engenharia Biotecnológica pela UNESP e atualmente venho
-direcionando minha carreira para as áreas de dados, Business Intelligence
-e melhoria de processos.
+Sou formada em Engenharia Biotecnológica pela UNESP e, ao longo das minhas
+experiências profissionais, fui me aproximando cada vez mais de dados,
+Business Intelligence e melhoria de processos.
 
-Tenho experiência com análise de dados, Power BI, Excel/VBA, automação
-e mapeamento de processos. Também estou aprofundando meus conhecimentos
-em SQL, DAX e modelagem de dados.
+Gosto de entender um problema, mexer nos dados e tentar encontrar uma forma
+mais simples e eficiente de resolver as coisas. Foi nesse caminho que comecei
+a me interessar cada vez mais por BI e análise de dados.
 
-Gosto principalmente de entender um problema, organizar os dados e
-encontrar uma forma mais simples de transformar essas informações em
-algo que realmente possa ser usado no dia a dia.
+Já trabalhei com Power BI, SQL, Python, Excel e automação usando Power
+Automate e Power Apps. Também tenho experiência com análise e melhoria de
+processos e criação de indicadores.
 
-## 🛠️ Ferramentas
+### 🤓 Atualmente estudando
 
-- Power BI
-- SQL
-- DAX
-- Excel / VBA
-- Power Automate
-- Power Apps
+Business Intelligence, Business Analytics e modelagem de dados — e tentando
+transformar cada estudo em alguma coisa prática.
 
-## 📚 Atualmente estudando
+### 🐱 Meu git...
 
-- SQL
-- Modelagem de dados
-- ETL
-- Business Intelligence
-- Data Analytics
-- Visualização e storytelling com dados
+Vou colocando meus projetos, estudos e algumas coisas que vou aprendendo
+pelo caminho. A ideia é usar esse espaço para acompanhar minha evolução
+e, quem sabe, ajudar alguém que também esteja aprendendo.
 
-## 📊 Sobre este GitHub
+### 🧶 Fora dos dados...
 
-Aqui vou reunir alguns dos meus estudos, projetos e experimentos
-relacionados a dados, BI e tecnologia.
+Gosto de crochê, de aprender coisas novas e provavelmente vou tentar
+automatizar alguma coisa que poderia muito bem continuar sendo feita
+manualmente. 
